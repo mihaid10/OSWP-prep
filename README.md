@@ -1,1 +1,1 @@
-# OSWP-prep
+# OSWP preparation resources
